@@ -17,6 +17,8 @@ function App() {
 
       <input name="campo2" />
 
+      <input type='file' name='archivo' />
+
       <input type="submit" value="Enviar" />
     </form>
   );
